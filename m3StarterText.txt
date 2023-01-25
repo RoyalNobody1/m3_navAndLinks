@@ -20,7 +20,7 @@ email
 
 	
 Absolute Hyperlinks
-Absolute hyperlinks are used when links are needed to another website. You would use an absolute link if you wanted to code a link on your website to asu.edu.
+
 
 Relative Hyperlinks
 Relative hyperlinks are used when links are needed to a page within your own website. When coding navigation, relative links are used because the links are to other pages within the same site.
